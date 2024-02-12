@@ -1,4 +1,4 @@
-body {
+ body {
   padding: 0px;
   margin: 0px;
   font-family: "Helvetica", sans-serif;
@@ -108,7 +108,7 @@ body {
   color: grey;
 }
 a.source:visited {
-  color: red;
+  color: grey;
 }
 
 .description {
