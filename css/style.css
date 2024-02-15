@@ -59,6 +59,13 @@ body {
   text-align: center;
 }
 
+.in-focus {
+    background-color: #6feb50;
+}
+.in-focus {
+    opacity: 1.0;
+}
+
 .chapter-container {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
