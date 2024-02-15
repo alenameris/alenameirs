@@ -5,6 +5,7 @@ body {
   padding: 0px;
   margin: 0px;
   overflow: hidden;
+ background-color: #6feb50;
 }
 
 #map {
@@ -58,12 +59,7 @@ body {
   font-weight: bold;
   text-align: center;
 }
-.in-focus {
-    background-color: #6feb50;
-}
-.in-focus {
-    opacity: 1.0;
-}
+
 .chapter-container {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
