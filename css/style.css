@@ -59,13 +59,6 @@ body {
   text-align: center;
 }
 
-.in-focus {
-    background-color: #6feb50;
-}
-.in-focus {
-    opacity: 1.0;
-}
-
 .chapter-container {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
@@ -170,6 +163,7 @@ a.source:visited {
   padding: 5px 0;
   text-align: center;
   color: #333;
+ background-color: #6feb50;
 }
 
 /* Storymap title & subtitle */
