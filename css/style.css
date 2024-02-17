@@ -1,5 +1,8 @@
 * {
  font-family: "Courier Prime", sans-serif;
+ * {
+  background-color: #32a852;
+ }
 }
 body {
   padding: 0px;
