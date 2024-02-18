@@ -4,6 +4,12 @@
 div#header {
  background-color: green;
 }
+div#space-at-the-bottom {
+ background-color: green;
+}
+small {
+ color: #333;
+}
 div#container0 {
  background-color: green;
 }
