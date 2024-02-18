@@ -83,7 +83,7 @@ body {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
   margin: 50px 0 0 0;
-  padding: 20px 0 0 0;
+  padding: 5px 0 0 0;
   text-align: center;
 }
 
@@ -127,7 +127,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: grey;
+  color: black;
 }
 a.source:visited {
   color: grey;
