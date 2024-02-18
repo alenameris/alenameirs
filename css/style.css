@@ -1,6 +1,5 @@
 * {
  font-family: "Courier Prime", sans-serif;
- color: black
 }
 div#container0 {
  background-color: green;
@@ -129,7 +128,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: black;
+  color: #333;
 }
 a.source:visited {
   color: grey;
