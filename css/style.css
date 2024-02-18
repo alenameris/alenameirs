@@ -71,7 +71,7 @@ body {
   margin: 0;
   text-align: center;
   text-color: black;
-  padding-top: 50px;
+  padding-top: 0px;
 }
 
 #title {
@@ -91,7 +91,7 @@ body {
 .chapter-container {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
-  margin: 10px 0 0 0;
+  margin: 0px 0 0 0;
   padding: 20px 0 0 0;
   text-align: center;
 }
