@@ -1,8 +1,7 @@
 * {
  font-family: "Courier Prime", sans-serif;
-.chapter-container.in-focus {
- background-color:green;
-}
+div#container0 {
+ background-color: green;
 }
 body {
   padding: 0px;
