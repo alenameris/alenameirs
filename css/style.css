@@ -51,7 +51,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: green;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -165,7 +165,6 @@ a.source:visited {
   padding: 5px 0;
   text-align: center;
   color: #333;
- background-color: green;
 }
 
 /* Storymap title & subtitle */
