@@ -7,9 +7,7 @@ div#header {
 div#space-at-the-bottom {
  background-color: green;
 }
-small {
- color: #333;
-}
+
 div#container0 {
  background-color: green;
 }
@@ -72,7 +70,8 @@ body {
   height: 150px;
   margin: 0;
   text-align: center;
-  padding-top: 150px;
+  text-color: black;
+  padding-top: 50px;
 }
 
 #title {
