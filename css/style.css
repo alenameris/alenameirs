@@ -1,39 +1,6 @@
 * {
  font-family: "Courier Prime", sans-serif;
 }
-div#header {
- background-color: green;
-}
-div#space-at-the-bottom {
- background-color: green;
-}
-
-div#container0 {
- background-color: green;
-}
- div#container1 {
- background-color: green;
-}
- div#container2 {
- background-color: green;
-}
- div#container3 {
- background-color: green;
-}
- div#container4 {
- background-color: green;
-}
- div#container5 {
- background-color: green;
-}
- div#container6{
- background-color: green;
-}
-body {
-  padding: 0px;
-  margin: 0px;
-  overflow: hidden;
-}
 
 #map {
   height: 200px;
@@ -42,95 +9,6 @@ body {
   border-bottom: 3px solid orange;
   top: 0;
   left: 0;
-}
-
-#narration {
-  position: absolute;
-  top: 203px;
-  width: 100vw;
-  height: calc(100vh - 203px);
-  z-index: 80;
-}
-
-#contents {
-  padding: 0;
-  width: 100%;
-  margin-top: 0; /*Adjust if Title header needs more space */
-  height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
-  overflow-y: scroll;
-  overflow-x: hidden;
-}
-
-#top {
-  height: 40px;
-  margin: 0;
-}
-
-#space-at-the-bottom {
-  height: 150px;
-  margin: 0;
-  text-align: center;
-  text-color: black;
-  padding-top: 0px;
-}
-
-#title {
-  position: absolute;
-  left: 0;
-  top: 203px;
-  background-color: green;
-  width: 100vw;
-  z-index: 100;
-  margin: 0;
-  padding: 0;
-  visibility: hidden;
-  font-weight: bold;
-  text-align: center;
-}
-
-.chapter-container {
-  /* margin + padding = chapterContainerMargin in script.js */
-  /* Important for scrolling! */
-  margin: 0px 0 0 0;
-  padding: 20px 0 0 0;
-  text-align: center;
-}
-
-.chapter-container img {
-  height: auto;
-  width: auto;
-  max-height: 100%;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-
-  /* Three lines that center vertically */
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.img-container {
-  margin: 0;
-  margin-bottom: 5px;
-  height: 200px;
-  max-height: 200px;
-  width: 100%;
-}
-
-.audio-container {
-  margin: 0;
-  margin-bottom: 5px;
-  height: 60px;
-  max-height: 60px;
-  width: 100%;
-}
-
-.chapter-header {
-  display: block;
-  text-align: center;
-  font-size: 1.2em;
-  padding: 0 5px;
 }
 
 .source {
@@ -195,13 +73,3 @@ a.source:visited {
 }
 
 /* Storymap title & subtitle */
-h1 {
-  margin: 0;
-  font-size: 1.5em;
-}
-
-h2 {
-  margin: 0;
-  font-size: 1.1em;
-  font-weight: normal;
-}
